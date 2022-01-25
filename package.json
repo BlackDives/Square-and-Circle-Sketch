@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "http://blackdives.github.io/Sqaure-and-Circle-Sketch",
+  "homepage": "https://blackdives.github.io/Sqaure-and-Circle-Sketch",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
