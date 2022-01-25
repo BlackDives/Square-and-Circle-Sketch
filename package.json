@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "http://blackdives.github.io/Sqaure-and-Circle-Sketch",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
